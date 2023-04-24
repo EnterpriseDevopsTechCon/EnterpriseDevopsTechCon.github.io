@@ -1,7 +1,7 @@
 +++
 author = "Viktor van den Berg"
 title = "Agenda"
-date = "2023-04-24"
+date = "2023-04-23"
 description = "The agenda for 2023 edition of the Enterprise Devops TechCon"
 tags = [
     "shortcodes",
